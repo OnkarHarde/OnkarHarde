@@ -1,5 +1,10 @@
 # 💫 Hi 👋, I'm Onkar 
-**A passionate data analyst  || data scientist || from India**
+**Data Science & AI Enthusiast | 
+Building scalable data-driven solutions using Python, SQL, and machine learning.
+Skilled in data analysis, visualization, and developing end-to-end projects—from data preprocessing to model deployment.
+Exploring advanced domains like AI systems, LLMs, and automation.
+Focused on solving real-world problems, continuous learning, and writing clean, efficient code.
+Open to opportunities, collaborations, and impactful projects.**
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
