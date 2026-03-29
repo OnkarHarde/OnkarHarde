@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Onkar 
+# 💫 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Onkar 
 **Data Science & AI Enthusiast | 
 Building scalable data-driven solutions using Python, SQL, and machine learning.
 Skilled in data analysis, visualization, and developing end-to-end projects—from data preprocessing to model deployment.
